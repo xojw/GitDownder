@@ -1,3 +1,3 @@
-# Gitdownder
+# GitDownder
 
 a simple python script that can download Github subfolders
